@@ -26,7 +26,7 @@ editor:
 title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the First International Workshop on Geometric Deep Learning in Medical Image Analysis
-    Held in Hotel Casa, Amsterdam, The Netherlands on 18 November 2022
+    Held in Amsterdam, The Netherlands on 18 November 2022
 
   Published as Volume 194 by the Proceedings of Machine Learning Research on 29 November 2022.
 
@@ -71,7 +71,7 @@ email: ''
 conference:
   name: Geometric Deep Learning in Medical Image Analysis
   url: https://geomedia.amsterdam
-  location: Hotel Casa, Amsterdam, The Netherlands
+  location: Amsterdam, The Netherlands
   dates:
   - 2022-11-18
 analytics:
