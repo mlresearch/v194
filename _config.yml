@@ -1,0 +1,82 @@
+---
+booktitle: Proceedings of the First International Workshop on Geometric Deep Learning
+  in Medical Image Analysis
+shortname: GeoMedIA
+year: '2022'
+volume: '194'
+start: 2022-11-18
+end: 2022-11-18
+published: 2022-11-29
+conference_number: '1'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: geomedia22
+month: 0
+cycles: false
+bibtex_editor: Bekkers, Erik and Wolterink, Jelmer M. and Aviles-Rivero, Angelica
+editor:
+- given: Erik
+  family: Bekkers
+- given: Jelmer M.
+  family: Wolterink
+- given: Angelica
+  family: Aviles-Rivero
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the First International Workshop on Geometric Deep Learning in Medical Image Analysis
+    Held in Hotel Casa, Amsterdam, The Netherlands on 18 November 2022
+
+  Published as Volume 194 by the Proceedings of Machine Learning Research on 29 November 2022.
+
+  Volume Edited by:
+    Erik Bekkers
+    Jelmer M. Wolterink
+    Angelica Aviles-Rivero
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 18 Nov
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v194"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v194
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v194
+email: ''
+conference:
+  name: Geometric Deep Learning in Medical Image Analysis
+  url: https://geomedia.amsterdam
+  location: Hotel Casa, Amsterdam, The Netherlands
+  dates:
+  - 2022-11-18
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v194/geomedia22.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v194/geomedia22.bib
